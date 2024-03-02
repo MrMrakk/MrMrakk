@@ -2,7 +2,7 @@
 
 # Привет
 
-<picture><img align="left" height="130" src="https://github.com/MrMrakk/MrMrakk/blob/main/Python.png"></picture>
+<picture><img align="left" height="170" src="https://github.com/MrMrakk/MrMrakk/blob/main/Python.png"></picture>
 
 
 ```yaml
