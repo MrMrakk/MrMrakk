@@ -10,6 +10,6 @@
 
 
 ```
-<picture> <img width="100%" src="https://github.com/MrMrakk/MrMrakk/blob/main/gradline.png"> </picture>
+<picture> <img width="100%" src="https://github.com/MrMrakk/MrMrakk/blob/main/gradline2.png"> </picture>
 ## Достижения
 ![code_wars](https://www.codewars.com/users/MrMrakk/badges/large)
